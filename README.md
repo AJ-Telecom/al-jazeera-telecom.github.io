@@ -1,5 +1,5 @@
 
-![alt text](https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-9/28055657_1044662459020914_4762039156937342916_n.jpg "Welcome!")
+![alt text](https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-1/p200x200/27867246_1043176592502834_5746806004715006389_n.jpg?_nc_cat=0&oh=15f786ccc6d0e466fbc9d9564ccec345&oe=5B94B158 "Welcome!")
 
 # Welcome to Al-Jazeera Telecoms Public Space
 
