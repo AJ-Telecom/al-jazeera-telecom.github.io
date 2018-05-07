@@ -1,4 +1,4 @@
-[logo]: (https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-9/28055657_1044662459020914_4762039156937342916_n.jpg)
+[Image]: (https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-9/28055657_1044662459020914_4762039156937342916_n.jpg)
 
 # Welcome to Al-Jazeera Telecoms Public Space
 
