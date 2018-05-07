@@ -5,13 +5,6 @@ We are a major internet service providor based out of Baghdad, Iraq and we provi
 
 Whenever we have code that's not mission critical we will provide for free under an MIT/GNU license here for the public's benifit. 
 
-Reference-style: 
-![alt text][logo]
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Al-Jazeera Telecom Home](https://github.com/Al-Jazeera-Telecom/).
 
